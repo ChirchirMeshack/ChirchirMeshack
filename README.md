@@ -126,6 +126,9 @@ Seriously, reach out! Let's build something cool or figure out AWS billing toget
 ## 📋 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Security SOS: Lock Down IAM Before It’s Too Late!](https://medium.com/@chirchirmeshack20/aws-security-sos-lock-down-iam-before-its-too-late-3525306022e6?source=rss-9f38f88417d3------2)
+- [My Portfolio Build: A Hackathon Technical Confession](https://medium.com/@chirchirmeshack20/my-portfolio-build-a-hackathon-technical-confession-5a26afcb9b4d?source=rss-9f38f88417d3------2)
+- [Building My Digital Self: A Slightly Unhinged Hackathon Portfolio Journey](https://medium.com/@chirchirmeshack20/building-my-digital-self-a-slightly-unhinged-hackathon-portfolio-journey-20cb10110e78?source=rss-9f38f88417d3------2)
 <!-- BLOG-POST-LIST:END -->
 > I like my cloud fortified, my IAM locked down, and my blogs a perfect mix of insightful and entertaining 💡🔥
 

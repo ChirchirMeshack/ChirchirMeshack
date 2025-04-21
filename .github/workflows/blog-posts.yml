@@ -26,7 +26,7 @@ jobs:
       - name: Fetch Medium Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1 # Use the blog-post-workflow action
         with:
-          feed_list: "https://medium.com/@chirchirmeshack20"
+          feed_list: "https://medium.com/feed/chirchirmeshack20"
 
           # Optional parameters (defaults are usually fine):
           max_post_count: 5 # Maximum number of posts to display (default: 5)
@@ -36,3 +36,4 @@ jobs:
           #   *Published: {date}*
           #   [Read More]({url})
           # date_format: 'mmmm d, yyyy' # Format for the date (default: 'mmmm d, yyy
+          

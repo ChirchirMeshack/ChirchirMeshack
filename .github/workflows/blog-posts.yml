@@ -1,0 +1,38 @@
+# .github/workflows/blog-posts.yml
+# GitHub Action workflow to fetch recent Medium blog posts and update the README.md
+
+name: Update Medium Blog Posts # Name of the workflow displayed on GitHub Actions tab
+
+on:
+  # Schedule updates: Run the workflow automatically every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *' # Uses standard cron syntax (minute hour day month day-of-week)
+
+  # Manual trigger: Allow running this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with Medium Posts # Name of the job
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+    steps:
+      # Step 1: Check out the repository code
+      # This allows the workflow to access your README.md file
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # Use the latest version of the checkout action
+
+      # Step 2: Run the Blog Post Workflow action
+      # This action fetches posts from the specified feed and updates the README
+      - name: Fetch Medium Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1 # Use the blog-post-workflow action
+        with:
+          feed_list: "https://medium.com/@chirchirmeshack20"
+
+          # Optional parameters (defaults are usually fine):
+          max_post_count: 5 # Maximum number of posts to display (default: 5)
+          # readme_path: 'README.md' # Path to the README file (default: README.md)
+          # template: |
+          #   ### {title}
+          #   *Published: {date}*
+          #   [Read More]({url})
+          # date_format: 'mmmm d, yyyy' # Format for the date (default: 'mmmm d, yyy

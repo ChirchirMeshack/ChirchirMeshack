@@ -126,6 +126,8 @@ Seriously, reach out! Let's build something cool or figure out AWS billing toget
 ## 📋 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveling Up My Cyber Skills: Hands-On with Microsoft Security &lpar;SC-900 Labs, Week 3&rpar;](https://medium.com/@chirchirmeshack20/leveling-up-my-cyber-skills-hands-on-with-microsoft-security-sc-900-labs-week-3-517845214594?source=rss-9f38f88417d3------2)
+- [‍ From Zero to Entra Hero: Dive Into Microsoft Identity Labs](https://medium.com/@chirchirmeshack20/from-zero-to-entra-hero-dive-into-microsoft-identity-labs-f5dbcb0f39a7?source=rss-9f38f88417d3------2)
 - [AWS Security SOS: Lock Down IAM Before It’s Too Late!](https://medium.com/@chirchirmeshack20/aws-security-sos-lock-down-iam-before-its-too-late-3525306022e6?source=rss-9f38f88417d3------2)
 - [My Portfolio Build: A Hackathon Technical Confession](https://medium.com/@chirchirmeshack20/my-portfolio-build-a-hackathon-technical-confession-5a26afcb9b4d?source=rss-9f38f88417d3------2)
 - [Building My Digital Self: A Slightly Unhinged Hackathon Portfolio Journey](https://medium.com/@chirchirmeshack20/building-my-digital-self-a-slightly-unhinged-hackathon-portfolio-journey-20cb10110e78?source=rss-9f38f88417d3------2)

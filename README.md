@@ -126,11 +126,11 @@ Seriously, reach out! Let's build something cool or figure out AWS billing toget
 ## 📋 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [✅ I Passed the SC-900! Here’s Exactly What I Used to Crush the Microsoft Security Fundamentals Exam](https://medium.com/@chirchirmeshack20/i-passed-the-sc-900-heres-exactly-what-i-used-to-crush-the-microsoft-security-fundamentals-exam-e9a170b04afb?source=rss-9f38f88417d3------2)
+- [From Clicks to CLI: My Azure RBAC Adventure &lpar;AZ-500 Lab Recap&rpar;](https://medium.com/@chirchirmeshack20/from-clicks-to-cli-my-azure-rbac-adventure-az-500-lab-recap-f6a6f27dd398?source=rss-9f38f88417d3------2)
 - [My Week in eDiscovery: A Hands-On Look  at Microsoft Purview](https://medium.com/@chirchirmeshack20/my-week-in-ediscovery-a-hands-on-look-at-microsoft-purview-597020946a19?source=rss-9f38f88417d3------2)
 - [Leveling Up My Cyber Skills: Hands-On with Microsoft Security &lpar;SC-900 Labs, Week 3&rpar;](https://medium.com/@chirchirmeshack20/leveling-up-my-cyber-skills-hands-on-with-microsoft-security-sc-900-labs-week-3-517845214594?source=rss-9f38f88417d3------2)
 - [‍ From Zero to Entra Hero: Dive Into Microsoft Identity Labs](https://medium.com/@chirchirmeshack20/from-zero-to-entra-hero-dive-into-microsoft-identity-labs-f5dbcb0f39a7?source=rss-9f38f88417d3------2)
-- [AWS Security SOS: Lock Down IAM Before It’s Too Late!](https://medium.com/@chirchirmeshack20/aws-security-sos-lock-down-iam-before-its-too-late-3525306022e6?source=rss-9f38f88417d3------2)
-- [My Portfolio Build: A Hackathon Technical Confession](https://medium.com/@chirchirmeshack20/my-portfolio-build-a-hackathon-technical-confession-5a26afcb9b4d?source=rss-9f38f88417d3------2)
 <!-- BLOG-POST-LIST:END -->
 > I like my cloud fortified, my IAM locked down, and my blogs a perfect mix of insightful and entertaining 💡🔥
 

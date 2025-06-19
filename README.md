@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Hey there, I'm Meshack Kimoloi 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=ChirchirMeshack&color=blue&style=flat-square)
+
 I'm a **cloud-loving**, **JavaScript-slinging**, **coffee-fueled problem solver** from 🇰🇪.  
 Currently building cool stuff at the intersection of **cloud computing** * and *web development** .
 

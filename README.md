@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=ChirchirMeshack&color=blue&style=flat-square)
 
-I'm a **cloud-loving**, **JavaScript-slinging**, **coffee-fueled problem solver** from 🇰🇪.  
-Currently building cool stuff at the intersection of **cloud computing** * and *web development** .
+I'm a **multi-cloud**, **JavaScript**, **coffee-fueled problem solver** from 🇰🇪.  
+Currently building cool stuff at the intersection of **cloud computing**  and *web development** .
 
 🧠 I’m the kind of dev who breaks production *once* and never forgets `--force` again.
 

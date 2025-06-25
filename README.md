@@ -128,11 +128,11 @@ Seriously, reach out! Let's build something cool or figure out AWS billing toget
 ## 📋 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [️ Revolution with Tech: How Civic Innovation Powered Kenya’s June 25 Uprising](https://medium.com/@chirchirmeshack20/%EF%B8%8F-revolution-with-tech-how-civic-innovation-powered-kenyas-june-25-uprising-1fb31be379e4?source=rss-9f38f88417d3------2)
 - [How I Deployed and Tested Azure Firewall &lpar;and Didn’t Break the Internet&rpar;](https://medium.com/@chirchirmeshack20/how-i-deployed-and-tested-azure-firewall-and-didnt-break-the-internet-644f48349f6f?source=rss-9f38f88417d3------2)
 - [Lab Chronicles: Locking Down Azure with NSGs and ASGs &lpar;a.k.a. Azure’s Bouncers&rpar;](https://medium.com/@chirchirmeshack20/lab-chronicles-locking-down-azure-with-nsgs-and-asgs-a-k-a-azures-bouncers-b245b4bade1a?source=rss-9f38f88417d3------2)
 - [✅ I Passed the SC-900! Here’s Exactly What I Used to Crush the Microsoft Security Fundamentals Exam](https://medium.com/@chirchirmeshack20/i-passed-the-sc-900-heres-exactly-what-i-used-to-crush-the-microsoft-security-fundamentals-exam-e9a170b04afb?source=rss-9f38f88417d3------2)
 - [From Clicks to CLI: My Azure RBAC Adventure &lpar;AZ-500 Lab Recap&rpar;](https://medium.com/@chirchirmeshack20/from-clicks-to-cli-my-azure-rbac-adventure-az-500-lab-recap-f6a6f27dd398?source=rss-9f38f88417d3------2)
-- [My Week in eDiscovery: A Hands-On Look  at Microsoft Purview](https://medium.com/@chirchirmeshack20/my-week-in-ediscovery-a-hands-on-look-at-microsoft-purview-597020946a19?source=rss-9f38f88417d3------2)
 <!-- BLOG-POST-LIST:END -->
 > I like my cloud fortified, my IAM locked down, and my blogs a perfect mix of insightful and entertaining 💡🔥
 
